@@ -6,7 +6,7 @@ A simple Sudoku game implemented in Python using Tkinter for the graphical user 
 - Randomly generated Sudoku puzzles with sizes ranging from 5 to 10.
 - Interactive GUI for user input with feedback on correctness.
 - Streak tracking for horizontal and vertical sequences of correct entries.
-- Visual indicators for correct (black) and incorrect (light red) answers.
+- Visual indicators for correct (black), (light red) for incorrect answers and (light blue) for blanks.
 - Completion message displayed upon solving the puzzle.
 
 ## Technologies Used
@@ -28,7 +28,7 @@ sudoku_game/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sudoku-generator.git
+   git clone https://github.com/yourusername/Sudoku-Generator.git
    cd sudokugen
    ```
 
