@@ -23,22 +23,6 @@ sudoku_game/
 ├── sudoku_gui.py  # GUI
 └── sudoku.py      # Logic for handling user interactions
 ```
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Sudoku-Generator.git
-   cd sudokugen
-   ```
-
-2. Ensure you have Python installed on your system.
-
-3. Run the game:
-   ```bash
-   python main.py
-   ```
-
 ## How to Play
 
 - Left-click on a cell to fill it in. 
